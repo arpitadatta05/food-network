@@ -28,7 +28,7 @@ section{
     border-radius: 10px;   
 }
 #me{
-    width: 90%;
+    width:100%;
     display: flex;
     background-image: url(shapes/7.png);
 }
@@ -69,6 +69,35 @@ h4{
     width: 33.3%;
 }
 .shadow{
-    border: gray;
-    box-shadow: 10cm 10cm 50cm gray;
+
+    box-shadow: 5px 5px 30px grey;
+    width: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 3%;
+    margin-right: 2%;
+    border-radius: 10px;
+
+}
+.food{
+    width: 80%;
+    
+ padding-left: 50px;
+ padding-right:20px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.padding-set{
+    width: 40%;
+    padding-left: 50px;
+
+}
+.p-set{
+    padding-left: 50px;
+    padding-right: 10px;
+}
+#white-color{
+    color: honeydew;
+    background-color: indianred;
+    text-align: center;
 }
