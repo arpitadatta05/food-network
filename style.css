@@ -49,3 +49,19 @@ section{
 #recipe{
     text-align: center;
 }
+.last{
+     background-color: black;
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 60px;
+}
+h4{
+    color: white;
+}
+#white{
+    color: white;
+}
+#advice{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
