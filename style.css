@@ -27,3 +27,25 @@ section{
     color: white;
     border-radius: 10px;   
 }
+#me{
+    width: 90%;
+    display: flex;
+    background-image: url(shapes/7.png);
+}
+.situated{
+    width: 50%;
+}
+.situated img{
+    width:30%;
+    padding-left: 250px;
+    padding-top: 80px;
+}
+.situate{
+    margin: auto 20px;
+}
+#button{
+    margin: 40px 120px 70px 250px;
+}
+#recipe{
+    text-align: center;
+}
